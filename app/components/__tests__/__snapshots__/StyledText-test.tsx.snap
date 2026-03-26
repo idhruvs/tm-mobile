@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MonoText> MonoText renders correctly 1`] = `
+<Text
+  style={
+    [
+      {
+        "color": "#212121",
+      },
+      [
+        undefined,
+        {
+          "fontFamily": "space-mono",
+        },
+      ],
+    ]
+  }
+>
+  Snapshot Test!
+</Text>
+`;
